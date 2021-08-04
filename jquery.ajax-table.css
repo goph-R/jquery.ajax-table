@@ -1,0 +1,17 @@
+.ajax-table th a {
+    padding: 2px 5px;
+    cursor: pointer;
+}
+
+.ajax-table-header-active {
+    background: #aaa;
+}
+
+.ajax-table-pager a {
+    padding: 2px 5px;
+    cursor: pointer;
+}
+
+.ajax-table-pager-active {
+    background: #aaa;
+}
