@@ -1,5 +1,7 @@
 $.fn.ajaxTable = function(options) {
 
+    // testing
+
     // set up template
     const template = `
         <div class="ajax-table-pager"></div>
